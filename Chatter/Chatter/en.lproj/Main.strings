@@ -1,0 +1,69 @@
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "0V3-l4-oi2"; */
+"0V3-l4-oi2.normalTitle" = "Log In";
+
+/* Class = "UINavigationItem"; title = "Chat Text Size"; ObjectID = "18b-SE-uAg"; */
+"18b-SE-uAg.title" = "Chat Text Size";
+
+/* Class = "UINavigationItem"; title = "Chat Background Color"; ObjectID = "1tH-In-u5U"; */
+"1tH-In-u5U.title" = "Chat Background Color";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3xs-PU-hEI"; */
+"3xs-PU-hEI.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Chat Text Size "; ObjectID = "CNa-lg-wm0"; */
+"CNa-lg-wm0.normalTitle" = "Chat Text Size ";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "CVG-KL-xhh"; */
+"CVG-KL-xhh.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "EXF-iP-sCN"; */
+"EXF-iP-sCN.normalTitle" = "Log In";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "MBd-X0-8VM"; */
+"MBd-X0-8VM.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PJO-Yy-viD"; */
+"PJO-Yy-viD.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Chat Wallpaper"; ObjectID = "SmB-MO-u9e"; */
+"SmB-MO-u9e.normalTitle" = "Chat Wallpaper";
+
+/* Class = "UINavigationItem"; title = "Chatter"; ObjectID = "T4n-gI-pyF"; */
+"T4n-gI-pyF.title" = "Chatter";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "Tch-z0-WuM"; */
+"Tch-z0-WuM.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Chatter"; ObjectID = "aDy-t8-Tok"; */
+"aDy-t8-Tok.text" = "Chatter";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "ajT-Gd-MEn"; */
+"ajT-Gd-MEn.normalTitle" = "Settings";
+
+/* Class = "UIViewController"; title = "Chatter"; ObjectID = "bSM-LX-iar"; */
+"bSM-LX-iar.title" = "Chatter";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cn5-yy-251"; */
+"cn5-yy-251.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gOe-bq-aK1"; */
+"gOe-bq-aK1.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "hUp-E1-sGN"; */
+"hUp-E1-sGN.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Log Out"; ObjectID = "ovL-kt-KWN"; */
+"ovL-kt-KWN.normalTitle" = "Log Out";
+
+/* Class = "UIButton"; normalTitle = "Set"; ObjectID = "vYc-W0-rTe"; */
+"vYc-W0-rTe.normalTitle" = "Set";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "vvc-op-pM7"; */
+"vvc-op-pM7.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "xUC-uI-st5"; */
+"xUC-uI-st5.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Chat Room"; ObjectID = "z3l-6v-sRf"; */
+"z3l-6v-sRf.normalTitle" = "Chat Room";

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>464840240045-pteq2p5fvdaaopogb5gdgbblg8ds8n9i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.464840240045-pteq2p5fvdaaopogb5gdgbblg8ds8n9i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDba6c9caJe74OuWA1SlIuiNze9jy-lc0U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>464840240045</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>calypso.Chatter</string>
+	<key>PROJECT_ID</key>
+	<string>chatter-18fde</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatter-18fde.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:464840240045:ios:61bc754ed72829ae02cf24</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatter-18fde.firebaseio.com</string>
+</dict>
+</plist>
